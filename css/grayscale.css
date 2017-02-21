@@ -124,7 +124,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+  background: url(../img/Squeaky-hero.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -136,7 +136,9 @@ a:focus {
   vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-  font-size: 40px;
+  font-size: 32px;
+  padding-top: 359px;
+  text-shadow: 4px 2px 9px black;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
@@ -147,7 +149,9 @@ a:focus {
     padding: 0;
   }
   .intro .intro-body .brand-heading {
-    font-size: 100px;
+    font-size: 38px;
+    padding-top: 389px;
+    text-shadow: 4px 2px 9px black;
   }
   .intro .intro-body .intro-text {
     font-size: 26px;
